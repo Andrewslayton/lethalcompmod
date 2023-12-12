@@ -1,7 +1,0 @@
-C:\Users\the tank\8bit\BrutalCompany\obj\Release\net46\BrutalCompany.csproj.AssemblyReference.cache
-C:\Users\the tank\8bit\BrutalCompany\obj\Release\net46\MyPluginInfo.cs
-C:\Users\the tank\8bit\BrutalCompany\obj\Release\net46\BrutalCompany.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\the tank\8bit\BrutalCompany\obj\Release\net46\BrutalCompany.AssemblyInfoInputs.cache
-C:\Users\the tank\8bit\BrutalCompany\obj\Release\net46\BrutalCompany.AssemblyInfo.cs
-C:\Users\the tank\8bit\BrutalCompany\obj\Release\net46\BrutalCompany.csproj.CoreCompileInputs.cache
-C:\Users\the tank\8bit\BrutalCompany\obj\Release\net46\BrutalCompany.sourcelink.json
